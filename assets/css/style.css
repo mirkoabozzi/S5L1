@@ -254,14 +254,13 @@ section h2 {
     width: 50%;
     display: inline-block;
     margin-top: 2em;
-    height: 250px;
+    height: 190px;
   }
   section {
     width: 49%;
     display: inline-block;
     border-radius: 20px;
-    position: relative;
-    bottom: 50px;
+    vertical-align: bottom;
   }
   aside div {
     display: inline-block;
